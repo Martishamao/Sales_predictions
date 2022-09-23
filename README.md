@@ -16,7 +16,7 @@ Big Mart Sales Prediction data from datahack.analyticsvidhya.
 - Followed along the model pipeline:
   - Dropped the Outlet_Size column due to an excessive amount of missing data.
   - Also dropped the Item_Identifier column do to it negatively affecting the OneHotEncoder result.
-  - 
+  - Used the median Simple Imputer to fill in the missing data for Item_weight.
 
 ## Results
 
