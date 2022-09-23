@@ -20,35 +20,30 @@ Big Mart Sales Prediction data from datahack.analyticsvidhya.
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
-#### Visual 1 Title
-![sample image](Item Maximum Retail Price (MRP) v. Outlet Sales.png)
+#### Item Maximum Retail Price (MRP) v. Outlet Sales 
+![sample image](https://github.com/Martishamao/Sales_predictions/blob/626a763dec7b85409ddacf50f3d48c0cd8272955/Item%20Maximum%20Retail%20Price%20(MRP)%20v.%20Outlet%20Sales.png)
 
 > A couple take aways can be made, the first being the items with higher MRP has higher Sales. Also, the medium sized outlet have higher sales for each item while the Large outlets have lower sales for the similar item prices.
 
-#### Visual 2 Title
+#### Average Revenue by Item
 
+![sample_image](https://github.com/Martishamao/Sales_predictions/blob/626a763dec7b85409ddacf50f3d48c0cd8272955/Average%20Revenue%20by%20Item.png)
+
+> The item with the highest average sales is Starchy Foods with an average Sale of $2,374.
 ## Model
 
-Describe your final model
+  - Used Decision Tree to model data.
 
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+  - Report the most important metrics
 
 ## Recommendations:
 
-More of your own text here
+![sample_image](https://github.com/Martishamao/Sales_predictions/blob/e33e4ae316a4968bdc5dd155f4dfbb53849c1512/Sales%20Heatmap.png)
 
-
-## Limitations & Next Steps
-
-More of your own text here
+> According to the heat map above, there are not much correlation between Item Sales and the other independent features. At most, a correlation could be evaluated for Item MRP. The regression tree also observed underfitting the data.  
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact MartishaOwens@gmail.com
