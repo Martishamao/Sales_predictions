@@ -26,7 +26,7 @@ Big Mart Sales Prediction data from datahack.analyticsvidhya.
 #### Visual 1 Title
 ![sample image](Item Maximum Retail Price (MRP) v. Outlet Sales.png)
 
-> Sentence about visualization.
+> A couple take aways can be made, the first being the items with higher MRP has higher Sales. Also, the medium sized outlet have higher sales for each item while the Large outlets have lower sales for the similar item prices.
 
 #### Visual 2 Title
 
