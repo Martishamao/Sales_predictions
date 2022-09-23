@@ -24,7 +24,7 @@ Big Mart Sales Prediction data from datahack.analyticsvidhya.
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![sample image](Item Maximum Retail Price (MRP) v. Outlet Sales.png)
 
 > Sentence about visualization.
 
